@@ -16,4 +16,7 @@
     "url": "https://github.com/islamicity/limo-mosques/issues"
   },
   "homepage": "https://github.com/islamicity/limo-mosques#readme"
+  "publishConfig": {
+    "@islamicity:registry": "https://npm.pkg.github.com"
+  }
 }
