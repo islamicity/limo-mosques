@@ -1,0 +1,19 @@
+{
+  "name": "@islamicity/limo-mosques",
+  "version": "1.0.0",
+  "description": "\"# limo-mosques\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamicity/limo-mosques.git"
+  },
+  "author": "Benn Al Islamicity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islamicity/limo-mosques/issues"
+  },
+  "homepage": "https://github.com/islamicity/limo-mosques#readme"
+}
